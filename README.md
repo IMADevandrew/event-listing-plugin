@@ -1,6 +1,8 @@
 # Event Listing WordPress Plugin
 
 A comprehensive WordPress plugin for managing and displaying events with a custom post type.
+<br>
+Author : Andrew by IMA
 
 ## Features
 
